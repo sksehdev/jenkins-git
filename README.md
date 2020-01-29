@@ -1,3 +1,3 @@
 # jenkins-git
-This is jenkins test repo and this is great
+This is jenkins test repo
 
